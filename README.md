@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/xinliuleo/azure-cd-ci-sample/_apis/build/status/xinliuleo.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/xinliuleo/azure-cd-ci-sample/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
